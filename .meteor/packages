@@ -7,3 +7,5 @@ standard-app-packages
 insecure
 bootstrap
 iron-router
+accounts-ui-bootstrap-dropdown
+accounts-password
